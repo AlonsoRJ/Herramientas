@@ -1,0 +1,12 @@
+h1 { 
+  font-size: 2rem; 
+}
+p  { 
+  font-size: 1.1rem; 
+  color: #444; 
+}
+img { 
+  width: 320px; 
+  display: block; 
+  margin: 12px 0; 
+}
